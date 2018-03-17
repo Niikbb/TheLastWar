@@ -75,7 +75,7 @@ var l_bgImageDuration = 15000;
 /*(Image-background only)
 Image background fade velocity
 in milliseconds*/
-var l_bgImageFadeVelocity = 5000;
+var l_bgImageFadeVelocity = 1500;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
