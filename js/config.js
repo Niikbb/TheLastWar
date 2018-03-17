@@ -93,7 +93,8 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "W9lNMD4Y23A", name: "ЛЮБЭ - Давай за..."},
 	{youtube: "UoYtlPb_4Wg", name: "Любэ - Солдат"},
-	{youtube: "y1sozDdYVSk", name: "FireLake - Live to Forget"}
+	{youtube: "y1sozDdYVSk", name: "FireLake - Live to Forget"},
+	{youtube: "i8S_hX5GRvw", name: "Firelake – Dirge For The Planet"}
 ];
 
 /*Random music order?*/
