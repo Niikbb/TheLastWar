@@ -91,10 +91,15 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "W9lNMD4Y23A", name: "ЛЮБЭ - Давай за..."},
+	{youtube: "kvM-WCXxok", name: "ЛЮБЭ - Давай за..."},
 	{youtube: "UoYtlPb_4Wg", name: "Любэ - Солдат"},
-	{youtube: "y1sozDdYVSk", name: "FireLake - Live to Forget"},
-	{youtube: "i8S_hX5GRvw", name: "Firelake – Dirge For The Planet"}
+	{youtube: "ehEJFT9Kkp0", name: "Любэ - Комбат"},
+	{youtube: "pAQ6UVgGiFI", name: "FireLake - Live to Forget"},
+	{youtube: "i8S_hX5GRvw", name: "Firelake – Dirge For The Planet"},
+	{youtube: "qgXpTUEU4LM", name: "Сплин - Выхода нет"},
+        {youtube: "6CMjcbTRY-0", name: "S.T.A.L.K.E.R. - 2000 Баксов"},
+        {youtube: "lrjECcaUZUo", name: "Firelake - Against The Ionized Odds"},
+	{youtube: "ccTqH6639JA", name: "Firelake - Fighting unknown"}
 ];
 
 /*Random music order?*/
